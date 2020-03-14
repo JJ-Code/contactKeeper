@@ -2,6 +2,8 @@
 node_modules/
 /.pnp
 .pnp.js
+.history
+.vscode
 
 # production
 /client/build
