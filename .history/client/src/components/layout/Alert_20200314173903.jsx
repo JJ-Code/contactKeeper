@@ -1,9 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link } from "react-router-dom";
 
 
-const Navbar = ({title, icon}) => {
+
+const Alert = ({title, icon}) => {
   return (
     <div className="navbar bg-primary">
       <h1>
@@ -35,4 +35,4 @@ Navbar.prototype = {
     title: 'Contact Keeper',
     icon: 'fas fa-id-card-alt'
   }
-export default Navbar;
+export default Alert;

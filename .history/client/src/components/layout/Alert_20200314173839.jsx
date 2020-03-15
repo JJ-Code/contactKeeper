@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link } from "react-router-dom";
 
 
-const Navbar = ({title, icon}) => {
+const Alert = ({title, icon}) => {
   return (
     <div className="navbar bg-primary">
       <h1>

@@ -20,7 +20,7 @@ const Navbar = ({title, icon}) => {
           <Link to='/register'>Register</Link>
         </li>
         <li>
-          <Link to='/login'>Login</Link>
+          <Link to='/login'>About</Link>
         </li>
       </ul>
     </div>
